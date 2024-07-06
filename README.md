@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Alex 👋
 
-<!--
-**alexbegoon/alexbegoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Founder | IoT Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here you'll find my work and projects in various domains, primarily focusing on Golang, Embedded C, and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- **🔧 Software Engineer**: Specializing in Golang and Embedded C.
+- **🌐 Founder of [BegoonLab](https://begoonlab.tech/en/services/)**: Providing top-notch services in software and hardware development.
+- **🤝 Open to Collaboration**: Always looking to work on complex software and hardware products.
+
+---
+
+## Interests
+
+- **🤖 Robotics**
+- **🖨️ 3D Printing**
+- **🛸 FPV Drones**
+
+I have a fully equipped laboratory where I assemble and research drones. Currently, I am diving deep into the **LoRaWAN protocol** and building a LoRa node product that will be hitting the market soon.
+
+---
+
+## 🛠️ Personal Projects
+- **[Go DCC](https://github.com/BegoonLab/go-dcc)**: Full DCC protocol implementation for controlling model trains and DCC Accessories modules
+  
+---
+
+## Let's Connect!
+
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/alexander-begoon/)
+- **Website**: [begoonlab.tech](https://begoonlab.tech/en/)
+
+Feel free to reach out for any collaborative opportunities or just to geek out over shared interests. Looking forward to connecting with fellow tech enthusiasts!
+
+---
