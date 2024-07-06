@@ -35,5 +35,3 @@ I have a fully equipped laboratory where I assemble and research drones. Current
 - **Website**: [begoonlab.tech](https://begoonlab.tech/en/)
 
 Feel free to reach out for any collaborative opportunities or just to geek out over shared interests. Looking forward to connecting with fellow tech enthusiasts!
-
----
