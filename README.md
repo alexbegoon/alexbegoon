@@ -33,6 +33,7 @@ I have a fully equipped laboratory where I assemble and research drones. Current
 ## Let's Connect!
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/alexander-begoon/)
+- **Calendly**: [Calendly](https://calendly.com/alex-mlg/30-minute-meeting-with-alexander-begoon)
 - **Website**: [begoonlab.tech](https://begoonlab.tech/en/)
 
 Feel free to reach out for any collaborative opportunities or just to geek out over shared interests. Looking forward to connecting with fellow tech enthusiasts!
