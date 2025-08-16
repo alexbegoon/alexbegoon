@@ -27,6 +27,7 @@ I have a fully equipped laboratory where I assemble and research drones. Current
 ## 🛠️ Personal Projects
 - **[Go DCC](https://github.com/BegoonLab/go-dcc)**: Full DCC protocol implementation for controlling model trains and DCC Accessories modules
 - **[Smart IoT Sensor](https://github.com/BegoonLab/xiao-esp32c6-wifi-sensor)**: The Smart IoT Sensor built using the XIAO ESP32C6 board
+- **[Meshimi](https://github.com/alexbegoon/meshimi)**: Open Hardware & Open Source Multi-Protocol Wireless Module
   
 ---
 
